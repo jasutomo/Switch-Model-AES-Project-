@@ -1,0 +1,5 @@
+component,npv_cost
+FuelCostsPerTP,6799862605.768138
+GenVariableOMCostsInTP,255204701.7390008
+StorageEnergyFixedCost,0
+TotalGenFixedCosts,2633377294.917354

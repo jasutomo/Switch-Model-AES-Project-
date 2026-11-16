@@ -1,0 +1,13 @@
+TIMESERIES,ts_period,ts_duration_of_tp,ts_num_tps,ts_scale_to_period
+2027_typical,2027,1,24,1816.25
+2027_peak,2027,1,24,5
+2027_lowload,2027,1,24,5
+2032_typical,2032,1,24,1816.25
+2032_peak,2032,1,24,5
+2032_lowload,2032,1,24,5
+2037_typical,2037,1,24,1816.25
+2037_peak,2037,1,24,5
+2037_lowload,2037,1,24,5
+2042_typical,2042,1,24,1816.25
+2042_peak,2042,1,24,5
+2042_lowload,2042,1,24,5
